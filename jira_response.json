@@ -1,0 +1,798 @@
+{
+  "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+  "id": "10044",
+  "self": "https://sherlockcorporation.atlassian.net/rest/api/3/issue/10044",
+  "key": "TDE-7",
+  "fields": {
+    "statuscategorychangedate": "2026-05-06T11:52:27.615-0300",
+    "issuetype": {
+      "self": "https://sherlockcorporation.atlassian.net/rest/api/3/issuetype/10038",
+      "id": "10038",
+      "description": "Uma parte pequena e distinta do trabalho.",
+      "iconUrl": "https://sherlockcorporation.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+      "name": "Tarefa",
+      "subtask": false,
+      "avatarId": 10318,
+      "entityId": "c885be38-41ec-4deb-b0ee-72b4f89b9ff8",
+      "hierarchyLevel": 0
+    },
+    "components": [],
+    "customfield_10071": null,
+    "timespent": null,
+    "customfield_10073": {
+      "self": "https://sherlockcorporation.atlassian.net/rest/api/3/customFieldOption/10022",
+      "value": "Normal",
+      "id": "10022",
+      "color": "PURPLE_DARKER"
+    },
+    "timeoriginalestimate": null,
+    "customfield_10074": null,
+    "project": {
+      "self": "https://sherlockcorporation.atlassian.net/rest/api/3/project/10033",
+      "id": "10033",
+      "key": "TDE",
+      "name": "Tarefas da Equipe",
+      "projectTypeKey": "business",
+      "simplified": true,
+      "avatarUrls": {
+        "48x48": "https://sherlockcorporation.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410",
+        "24x24": "https://sherlockcorporation.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=small",
+        "16x16": "https://sherlockcorporation.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=xsmall",
+        "32x32": "https://sherlockcorporation.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=medium"
+      }
+    },
+    "description": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Teste v3"
+            }
+          ],
+          "attrs": {
+            "localId": "baff84dbe919"
+          }
+        }
+      ]
+    },
+    "fixVersions": [],
+    "aggregatetimespent": null,
+    "statusCategory": {
+      "self": "https://sherlockcorporation.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "Itens Pendentes"
+    },
+    "resolution": null,
+    "timetracking": {},
+    "customfield_10015": null,
+    "security": null,
+    "attachment": [
+      {
+        "self": "https://sherlockcorporation.atlassian.net/rest/api/3/attachment/10000",
+        "id": "10000",
+        "filename": "background-20260506-113646.jpeg",
+        "author": {
+          "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+          "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+          "emailAddress": "v.m.moraes1997@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+          },
+          "displayName": "Vitor Moraes",
+          "active": true,
+          "timeZone": "America/Sao_Paulo",
+          "accountType": "atlassian"
+        },
+        "created": "2026-05-06T13:44:19.174-0300",
+        "size": 5743,
+        "mimeType": "image/jpeg",
+        "content": "https://sherlockcorporation.atlassian.net/rest/api/3/attachment/content/10000",
+        "thumbnail": "https://sherlockcorporation.atlassian.net/rest/api/3/attachment/thumbnail/10000"
+      }
+    ],
+    "aggregatetimeestimate": null,
+    "resolutiondate": null,
+    "workratio": -1,
+    "summary": "Teste v5",
+    "watches": {
+      "self": "https://sherlockcorporation.atlassian.net/rest/api/3/issue/TDE-7/watchers",
+      "watchCount": 1,
+      "isWatching": true
+    },
+    "lastViewed": "2026-05-14T11:26:34.479-0300",
+    "creator": {
+      "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+      "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+      "emailAddress": "v.m.moraes1997@gmail.com",
+      "avatarUrls": {
+        "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+        "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+        "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+        "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+      },
+      "displayName": "Vitor Moraes",
+      "active": true,
+      "timeZone": "America/Sao_Paulo",
+      "accountType": "atlassian"
+    },
+    "subtasks": [],
+    "created": "2026-05-06T11:52:27.220-0300",
+    "reporter": {
+      "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+      "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+      "emailAddress": "v.m.moraes1997@gmail.com",
+      "avatarUrls": {
+        "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+        "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+        "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+        "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+      },
+      "displayName": "Vitor Moraes",
+      "active": true,
+      "timeZone": "America/Sao_Paulo",
+      "accountType": "atlassian"
+    },
+    "aggregateprogress": {
+      "progress": 0,
+      "total": 0
+    },
+    "priority": {
+      "self": "https://sherlockcorporation.atlassian.net/rest/api/3/priority/3",
+      "iconUrl": "https://sherlockcorporation.atlassian.net/images/icons/priorities/medium_new.svg",
+      "name": "Medium",
+      "id": "3"
+    },
+    "customfield_10001": null,
+    "labels": [],
+    "environment": null,
+    "customfield_10019": "0|i0002n:",
+    "timeestimate": null,
+    "aggregatetimeoriginalestimate": null,
+    "versions": [],
+    "duedate": null,
+    "progress": {
+      "progress": 0,
+      "total": 0
+    },
+    "issuelinks": [],
+    "votes": {
+      "self": "https://sherlockcorporation.atlassian.net/rest/api/3/issue/TDE-7/votes",
+      "votes": 0,
+      "hasVoted": false
+    },
+    "comment": {
+      "comments": [
+        {
+          "self": "https://sherlockcorporation.atlassian.net/rest/api/3/issue/10044/comment/10033",
+          "id": "10033",
+          "author": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Teste de imagem "
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "hardBreak"
+                  }
+                ],
+                "attrs": {
+                  "localId": "39957b99aa3f"
+                }
+              },
+              {
+                "type": "mediaSingle",
+                "attrs": {
+                  "width": 333,
+                  "widthType": "pixel",
+                  "localId": "84dda190afc8",
+                  "layout": "align-start"
+                },
+                "content": [
+                  {
+                    "type": "media",
+                    "attrs": {
+                      "type": "file",
+                      "id": "82cc7dd6-b3ed-4b91-80f6-472dae422c8b",
+                      "alt": "background-20260506-113646.jpeg",
+                      "collection": "",
+                      "localId": "ddeed236186b",
+                      "height": 187,
+                      "width": 333
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "created": "2026-05-06T13:44:19.588-0300",
+          "updated": "2026-05-06T13:44:19.588-0300",
+          "jsdPublic": true
+        },
+        {
+          "self": "https://sherlockcorporation.atlassian.net/rest/api/3/issue/10044/comment/10066",
+          "id": "10066",
+          "author": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "teste de atualiza\u00e7\u00e3o do ticket, - coment\u00e1rio"
+                  }
+                ],
+                "attrs": {
+                  "localId": "ca8cc9872b42"
+                }
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "created": "2026-05-06T15:25:42.972-0300",
+          "updated": "2026-05-06T15:25:42.972-0300",
+          "jsdPublic": true
+        },
+        {
+          "self": "https://sherlockcorporation.atlassian.net/rest/api/3/issue/10044/comment/10067",
+          "id": "10067",
+          "author": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "attrs": {
+                      "localId": "da07150f1b44"
+                    },
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "teste de atualiza\u00e7\u00e3o do ticket, - coment\u00e1rio"
+                          }
+                        ],
+                        "attrs": {
+                          "localId": "205eeb66f35a"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "attrs": {
+                  "localId": "44993422a06c"
+                }
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "created": "2026-05-06T15:27:39.229-0300",
+          "updated": "2026-05-06T15:27:39.229-0300",
+          "jsdPublic": true
+        },
+        {
+          "self": "https://sherlockcorporation.atlassian.net/rest/api/3/issue/10044/comment/10068",
+          "id": "10068",
+          "author": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "teste 5"
+                  }
+                ],
+                "attrs": {
+                  "localId": "b6b2db18e918"
+                }
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "created": "2026-05-06T15:29:53.022-0300",
+          "updated": "2026-05-06T15:29:53.022-0300",
+          "jsdPublic": true
+        },
+        {
+          "self": "https://sherlockcorporation.atlassian.net/rest/api/3/issue/10044/comment/10069",
+          "id": "10069",
+          "author": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Teste 6"
+                  }
+                ],
+                "attrs": {
+                  "localId": "3b874a500e88"
+                }
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "created": "2026-05-06T15:35:00.784-0300",
+          "updated": "2026-05-06T15:35:00.784-0300",
+          "jsdPublic": true
+        },
+        {
+          "self": "https://sherlockcorporation.atlassian.net/rest/api/3/issue/10044/comment/10070",
+          "id": "10070",
+          "author": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "teste 7"
+                  }
+                ],
+                "attrs": {
+                  "localId": "e51a36498cfa"
+                }
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "created": "2026-05-06T15:52:56.632-0300",
+          "updated": "2026-05-06T15:52:56.632-0300",
+          "jsdPublic": true
+        },
+        {
+          "self": "https://sherlockcorporation.atlassian.net/rest/api/3/issue/10044/comment/10071",
+          "id": "10071",
+          "author": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "tesete"
+                  }
+                ],
+                "attrs": {
+                  "localId": "ffb66871f321"
+                }
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "created": "2026-05-06T15:59:04.332-0300",
+          "updated": "2026-05-06T15:59:04.332-0300",
+          "jsdPublic": true
+        },
+        {
+          "self": "https://sherlockcorporation.atlassian.net/rest/api/3/issue/10044/comment/10072",
+          "id": "10072",
+          "author": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "tesete"
+                  }
+                ],
+                "attrs": {
+                  "localId": "2dabcb53413f"
+                }
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "created": "2026-05-06T16:01:07.718-0300",
+          "updated": "2026-05-06T16:01:07.718-0300",
+          "jsdPublic": true
+        },
+        {
+          "self": "https://sherlockcorporation.atlassian.net/rest/api/3/issue/10044/comment/10073",
+          "id": "10073",
+          "author": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "teste ap\u00f3s atualiza\u00e7\u00e3o"
+                  }
+                ],
+                "attrs": {
+                  "localId": "dfa07d7f3a1d"
+                }
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "created": "2026-05-06T16:59:10.564-0300",
+          "updated": "2026-05-06T16:59:10.564-0300",
+          "jsdPublic": true
+        },
+        {
+          "self": "https://sherlockcorporation.atlassian.net/rest/api/3/issue/10044/comment/10074",
+          "id": "10074",
+          "author": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "body": {
+            "type": "doc",
+            "version": 1,
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "testestsetsetse"
+                  }
+                ],
+                "attrs": {
+                  "localId": "7de1ac08418e"
+                }
+              }
+            ]
+          },
+          "updateAuthor": {
+            "self": "https://sherlockcorporation.atlassian.net/rest/api/3/user?accountId=712020%3Aea8aae72-5d19-4e78-8240-7addc0147762",
+            "accountId": "712020:ea8aae72-5d19-4e78-8240-7addc0147762",
+            "emailAddress": "v.m.moraes1997@gmail.com",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/4abc06ffc473c50cbf374befc8bdfa7f?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-2.png"
+            },
+            "displayName": "Vitor Moraes",
+            "active": true,
+            "timeZone": "America/Sao_Paulo",
+            "accountType": "atlassian"
+          },
+          "created": "2026-05-06T17:05:13.121-0300",
+          "updated": "2026-05-06T17:05:13.121-0300",
+          "jsdPublic": true
+        }
+      ],
+      "self": "https://sherlockcorporation.atlassian.net/rest/api/3/issue/10044/comment",
+      "maxResults": 10,
+      "total": 10,
+      "startAt": 0
+    },
+    "assignee": null,
+    "worklog": {
+      "startAt": 0,
+      "maxResults": 20,
+      "total": 0,
+      "worklogs": []
+    },
+    "updated": "2026-05-06T17:05:13.121-0300",
+    "status": {
+      "self": "https://sherlockcorporation.atlassian.net/rest/api/3/status/10036",
+      "description": "",
+      "iconUrl": "https://sherlockcorporation.atlassian.net/",
+      "name": "Tarefas pendentes",
+      "id": "10036",
+      "statusCategory": {
+        "self": "https://sherlockcorporation.atlassian.net/rest/api/3/statuscategory/2",
+        "id": 2,
+        "key": "new",
+        "colorName": "blue-gray",
+        "name": "Itens Pendentes"
+      }
+    }
+  }
+}

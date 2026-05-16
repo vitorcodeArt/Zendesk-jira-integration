@@ -15,3 +15,28 @@ async def get_issue(issue_key):
         )
 
     return response.json()
+
+def extract_description_text(description):
+
+    if not description:
+        return "Sem descrição"
+
+    try:
+
+        texts = []
+
+        for block in description.get("content", []):
+
+            for item in block.get("content", []):
+
+                if item.get("type") == "text":
+
+                    texts.append(
+                        item.get("text", "")
+                    )
+
+        return "\n".join(texts)
+
+    except Exception:
+
+        return "Erro ao converter descrição"
